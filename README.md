@@ -4,8 +4,7 @@ homework
 
 ### homework3
 
-FNN 235146 92.46% accuracy 0.2660 
-
-CNN 215370 98.94% accuracy
-
-FNN은 속도가 빠른것에 비해 정확도가 떨어지고 CNN은 속도가 느리지만 정확도가 CNN에 비해 6.5%나 높다.
+[전체 코드와 그래프 보기](./homework3_graph.ipynb)
+FNN 235,146 97.48%
+CNN 215,370 98.87%
+MNIST처럼 단순한 데이터에서는 FNN도 97%대의 높은 정확도이지만, 이미지 데이터에는 CNN이 더 효율적입니다.
