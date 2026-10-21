@@ -1,6 +1,8 @@
 # CV2026
 
 homework
+### homework2
+[전체 코드](./homework2.ipynb)
 
 ### homework3
 
